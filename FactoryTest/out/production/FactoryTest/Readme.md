@@ -1,0 +1,1 @@
+说明文档：在这个简单工厂里面，要创建新的角色只需要再写一个Charactor类，想输出这个角色就改一下配置文件FactoryTest.properties
