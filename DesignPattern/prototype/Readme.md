@@ -1,0 +1,7 @@
+这是原型模式
+Prototype：抽象原型类
+ConcretePrototype：具体原型类
+
+把fruit直接赋值给fruit1的时候，hashCode一样，用clone方法克隆一个对象的时候，hashCode不一样
+
+原型模式管理器就像是个货架，给每个商品添加标签，通过标签来取出商品
